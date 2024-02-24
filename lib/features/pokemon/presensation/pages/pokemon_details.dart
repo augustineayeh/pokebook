@@ -4,7 +4,7 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:gap/gap.dart';
 import 'package:pokebook/core/constants/app_colors.dart';
 import 'package:pokebook/features/pokemon/data/models/pokemon.dart';
-import 'package:pokebook/features/pokemon/presensation/blocs/tab_item_cubit/nav_item_cubit.dart';
+import 'package:pokebook/features/pokemon/presensation/blocs/tab_item_cubit/tab_item_cubit.dart';
 import 'package:pokebook/features/pokemon/presensation/blocs/tab_item_cubit/tab_item_state.dart';
 import 'package:pokebook/features/pokemon/presensation/widgets/about_tab.dart';
 import 'package:pokebook/features/pokemon/presensation/widgets/pokemon_type.dart';

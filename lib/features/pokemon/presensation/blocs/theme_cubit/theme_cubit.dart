@@ -1,7 +1,8 @@
 import 'package:bloc/bloc.dart';
 import 'package:equatable/equatable.dart';
 import 'package:flutter/material.dart';
-import 'package:pokebook/core/constants/app_colors.dart';
+
+import '../../../../../core/constants/app_colors.dart';
 
 part 'theme_state.dart';
 

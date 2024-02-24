@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:pokebook/core/constants/app_colors.dart';
-import 'package:pokebook/features/pokemon/presensation/blocs/theme_cubit/theme_cubit.dart';
-import 'package:pokebook/features/pokemon/presensation/widgets/theme_switcher_widget.dart';
+
+import '../../../../core/constants/app_colors.dart';
+import '../blocs/theme_cubit/theme_cubit.dart';
+import 'theme_switcher_widget.dart';
 
 class ThemeColors extends StatelessWidget {
   ThemeColors({super.key});

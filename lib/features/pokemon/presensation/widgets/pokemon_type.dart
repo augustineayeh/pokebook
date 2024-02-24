@@ -1,5 +1,6 @@
 import 'package:flutter/cupertino.dart';
-import 'package:pokebook/core/constants/app_colors.dart';
+
+import '../../../../core/constants/app_colors.dart';
 
 class PokemonTypeWidget extends StatefulWidget {
   const PokemonTypeWidget({

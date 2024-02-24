@@ -2,11 +2,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:gap/gap.dart';
-import 'package:pokebook/core/constants/app_colors.dart';
-import 'package:pokebook/features/pokemon/presensation/blocs/theme_cubit/theme_cubit.dart';
 
+import '../../../../core/constants/app_colors.dart';
 import '../../data/models/pokemon.dart';
 import '../../domain/usecases/get_pokemon_list_usecase.dart';
+import '../blocs/theme_cubit/theme_cubit.dart';
 import '../pages/pokemon_details.dart';
 import 'pokemon_type.dart';
 

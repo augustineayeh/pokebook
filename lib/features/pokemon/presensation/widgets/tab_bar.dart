@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../blocs/tab_item_cubit/nav_item_cubit.dart';
+import '../blocs/tab_item_cubit/tab_item_cubit.dart';
 import '../blocs/tab_item_cubit/tab_item_state.dart';
 import 'tab_item.dart';
 

@@ -2,9 +2,9 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
 import 'package:http/http.dart';
-import 'package:pokebook/core/api_client/api_client.dart';
-import 'package:pokebook/core/constants/app_colors.dart';
 
+import '../../../../core/api_client/api_client.dart';
+import '../../../../core/constants/app_colors.dart';
 import '../../data/datasources/pokemon_remote_data_source_impl.dart';
 import '../../data/models/pokemon.dart';
 import '../pages/pokemon_details.dart';

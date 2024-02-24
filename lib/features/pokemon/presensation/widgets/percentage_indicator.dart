@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:pokebook/features/pokemon/presensation/blocs/theme_cubit/theme_cubit.dart';
+
+import '../blocs/theme_cubit/theme_cubit.dart';
 
 class CustomPercentageIndicator extends StatelessWidget {
   const CustomPercentageIndicator({

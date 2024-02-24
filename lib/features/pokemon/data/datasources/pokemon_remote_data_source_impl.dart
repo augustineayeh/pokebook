@@ -1,8 +1,7 @@
 import 'dart:convert';
 
-import 'package:pokebook/core/api_client/api_client.dart';
-import 'package:pokebook/core/api_client/api_consts.dart';
-
+import '../../../../core/api_client/api_client.dart';
+import '../../../../core/api_client/api_consts.dart';
 import '../models/pokemon.dart';
 import 'pokemon_remote_data_source.dart';
 

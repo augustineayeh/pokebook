@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:gap/gap.dart';
-import 'package:pokebook/core/constants/app_colors.dart';
-import 'package:pokebook/features/pokemon/data/models/pokemon.dart';
-import 'package:pokebook/features/pokemon/presensation/widgets/pokemon_type.dart';
+
+import '../../../../core/constants/app_colors.dart';
+import '../../data/models/pokemon.dart';
+import 'pokemon_type.dart';
 
 class SimilarPokemonCard extends StatelessWidget {
   const SimilarPokemonCard({
